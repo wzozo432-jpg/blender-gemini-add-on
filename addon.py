@@ -7,7 +7,7 @@ from datetime import datetime
 
 # Configuration
 CONFIG = {
-    "API_KEY": "YOUR_API_KEY_HERE",  # Replace with your Gemini API key
+    "API_KEY": "AIzaSyBKwvD2ZuqOJ-8erLdZvD1v906mG4z8Uow",  # Replace with your Gemini API key
     "API_URL": "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
     "TEMPERATURE": 0.7,
     "TOP_K": 40,
